@@ -141,7 +141,7 @@ function App() {
           </div>
          
         <Modal
-         
+         disableAutoFocus
         open={open}
           onClose={handleClose}
         ><div  className={'popupContainer'}>
